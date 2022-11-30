@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+---
+## Stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YSSeah99&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YSSeah99&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+
 <!--
 **YSSeah99/YSSeah99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
